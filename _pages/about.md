@@ -13,7 +13,7 @@ I am a first-year PhD student in computer science at the University of Pennsylva
 Research/Experience
 ======
 - Collaborated with Matthew Jackson for my Honors Thesis on the role of homophily in the malleability of social networks using techniques drawn from Mean-Field Game Theory [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://stacks.stanford.edu/file/druid:tc454jm3013/HonorsThesisFinal_SikataSengupta.pdf)
-- Worked on online estimation of Heterogeneous Agent New Keynesian Models using Sequential Monte Carlo at the NY Federal Reserve [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1071.pdf?sc_lang=en)
+- Worked on online estimation of Heterogeneous Agent New Keynesian Models using Sequential Monte Carlo at the NY Federal Reserve [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1071.pdf?sc_lang=en). I also worked on utilizing Hamiltonian Monte Carlo (HMC) to estimate medium-scale DSGE models.
 - Collaborated with Itai Ashlagi on an algorithm that matches students in the San Francisco area with schools based upon a generalized version of the Probabilistic Serial Dictatorship mechanism with distributional constraints
 - Working with Alain Schläepfer on Reinforcement Learning and Imitation Learning for Optimal Stopping Problems [here](https://github.com/psamathe50/SecretaryProblem_ImitationLearning/blob/main/Secretary_Problem_ArXiv_Final%20(1).pdf)
 - Civic Digital Fellow in Research & Statistics through Coding it Forward where I worked on Imputation of Revenue for the County Business Patterns dataset
