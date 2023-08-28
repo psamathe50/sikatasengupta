@@ -14,9 +14,13 @@ Research
 ======
 
 
-Activities/Mentorship
+Mentorship/Involvement
 ======
-
+- Women in Machine Learning Volunteer
+- CIS UPenn PhD Mentorship Program Volunteer 
+- Stanford Women in Math Mentoring Member
+- Stanford Undergraduate Mathematics Organization Member
+- Mathematics and Economics Tutor through the Stanford Center for Teaching and Learning
 
 Honors
 ------
