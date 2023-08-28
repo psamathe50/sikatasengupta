@@ -8,22 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in computer science at the University of Pennsylvania. I am fortunate to be advised by Michael Kearns, Aaron Roth, and Duncan Watts. I am broadly interested in the intersection of Machine Learning, Game Theory, and broader Computational Social Science questions. Prior to this, I graduated from Stanford University with a B.A.S. in Mathematics and Economics (Honors). During my time there, I was lucky to work with and be advised by Matthew Jackson, Itai Ashlagi, and Alain Schläepfer. I also spent a year working in the Dynamic Stochastic General Equilibrium (DSGE) Team at the New York Federal Reserve. You can reach me at sikata@seas.upenn.edu.
+I am a first-year PhD student in computer science at the University of Pennsylvania. I am fortunate to be advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), and [Duncan Watts](https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd). I am broadly interested in the intersection of Machine Learning, Game Theory, and broader Computational Social Science questions. Prior to this, I graduated from Stanford University with a B.A.S. in Mathematics and Economics (Honors). During my time there, I was lucky to work with and be advised by [Matthew Jackson](http://web.stanford.edu/~jacksonm/), [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), and [Alain Schläepfer](https://sites.google.com/site/alainschlaepfer). I also spent a year working in the Dynamic Stochastic General Equilibrium (DSGE) Team at the New York Federal Reserve. 
 
-Research
+Research/Experience
 ======
-
+- Collaborated with Matthew Jackson for my Honors Thesis on the role of homophily in the malleability of social networks [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://stacks.stanford.edu/file/druid:tc454jm3013/HonorsThesisFinal_SikataSengupta.pdf)
+- Worked on online estimation of Heterogeneous Agent New Keynesian Models using Sequential Monte Carlo at the NY Federal Reserve [here] (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1071.pdf?sc_lang=en)
+- Collaborated with Itai Ashlagi on an algorithm that matches students in the San Francisco area with schools based upon a generalized version of the Probabilistic Serial Dictatorship mechanism with distributional constraints
+- Working with Alain Schläepfer on Reinforcement Learning and Imitation Learning for Optimal Stopping Problems [here](https://github.com/psamathe50/SecretaryProblem_ImitationLearning/blob/main/Secretary_Problem_ArXiv_Final%20(1).pdf)
+- Civic Digital Fellow in Research & Statistics through Coding it Forward 
 
 Mentorship/Involvement
 ======
 - Women in Machine Learning Volunteer
-- CIS UPenn PhD Mentorship Program Volunteer 
+- CS UPenn PhD Mentorship Program Volunteer 
 - Stanford Women in Math Mentoring Member
 - Stanford Undergraduate Mathematics Organization Member
 - Mathematics and Economics Tutor through the Stanford Center for Teaching and Learning
 
-Honors
+Hobbies
 ------
-
+Outside of research, I love to play chess, juggle, and watch films! 
 
 
