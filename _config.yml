@@ -11,9 +11,9 @@ title                    : "Sikata's Homepage"
 title_separator          : "-"
 name                     : &name "Sikata Sengupta"
 description              : &description "personal description"
-url                      : https://psamathe50.github.io/sikatasengupta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://psamathe50.github.io/sikatasengupta # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "psamathe50/sikatasengupta.github.io"
+repository               : "psamathe50/sikatasengupta"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
