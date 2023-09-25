@@ -16,11 +16,12 @@ Research/Experience
 - Worked on online estimation of Heterogeneous Agent New Keynesian Models (HANK) using Sequential Monte Carlo at the NY Federal Reserve [here](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1071.pdf?sc_lang=en). I also briefly worked on speeding up Hamiltonian Monte Carlo (HMC) to estimate medium-scale DSGE models.
 - Developed an algorithm with Itai Ashlagi that matches students in the San Francisco area with schools based upon a generalized version of the Probabilistic Serial Dictatorship mechanism with distributional constraints
 - Collaborating with Alain Schläpfer on Reinforcement Learning and Imitation Learning for Optimal Stopping Problems [here](https://github.com/psamathe50/SecretaryProblem_ImitationLearning/blob/main/Secretary_Problem_ArXiv_Final%20(1).pdf)
-- Civic Digital Fellow in Research & Statistics through Coding it Forward where I worked on Imputation of Revenue for the County Business Patterns dataset
+- Civic Digital Fellow in Research & Statistics through Coding it Forward where I worked on Imputation of Revenue for the County Business Patterns dataset for the U.S. Census Bureau
 
 Mentorship/Involvement
 ======
 - Women in Machine Learning Volunteer
+- Computer and Information Science Doctoral Association (CISDA) Volunteer
 - CS UPenn PhD Mentorship Program Volunteer 
 - Stanford Women in Math Mentoring Member
 - Stanford Undergraduate Mathematics Organization Member
