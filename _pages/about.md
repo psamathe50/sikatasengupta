@@ -12,6 +12,7 @@ I am a first-year PhD student in computer science at the University of Pennsylva
 
 Research/Experience
 ======
+- Oracle-Efficient Reinforcement Learning for Max Value Ensembles. Joint work with M. Hussing, M. Kearns, A. Roth, and J. Sorrell. [Preprint: May 2024](https://arxiv.org/abs/2405.16739)
 - Advised by Matthew Jackson for my Honors Thesis, I studied the role of homophily in the malleability of social networks using techniques drawn from Mean-Field Game Theory [here](https://stacks.stanford.edu/file/druid:tc454jm3013/HonorsThesisFinal_SikataSengupta.pdf)
 - Worked on online estimation of Heterogeneous Agent New Keynesian Models (HANK) using Sequential Monte Carlo at the NY Federal Reserve [here](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1071.pdf?sc_lang=en). I also briefly worked on speeding up Hamiltonian Monte Carlo (HMC) to estimate medium-scale DSGE models.
 - Developed an algorithm with Itai Ashlagi that matches students in the San Francisco area with schools based upon a generalized version of the Probabilistic Serial Dictatorship mechanism with distributional constraints
