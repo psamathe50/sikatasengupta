@@ -13,8 +13,8 @@ I am a second-year PhD student in computer science at the University of Pennsylv
 Publications
 ======
 *(all in alphabetical ordering)*
-[Oracle-Efficient Reinforcement Learning for Max Value Ensembles](https://arxiv.org/abs/2405.16739). Joint work with M. Hussing, M. Kearns, A. Roth, and J. Sorrell. ICML: ARLET, WIML, **NeurIPS: Main 2024**.
-[Estimating HANK for central banks](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1071.pdf?sc_lang=en). Joint work with S. Acharya, W. Chen, M. Del Negro, K. Dogra, A. Gleich, S. Goyal, E. Maitlin, D. Lee, and R. Sarfati. FRB of New York Staff Report.
+- [Oracle-Efficient Reinforcement Learning for Max Value Ensembles](https://arxiv.org/abs/2405.16739). Joint work with M. Hussing, M. Kearns, A. Roth, and J. Sorrell. ICML: ARLET, WIML, **NeurIPS: Main 2024**.
+- [Estimating HANK for central banks](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1071.pdf?sc_lang=en). Joint work with S. Acharya, W. Chen, M. Del Negro, K. Dogra, A. Gleich, S. Goyal, E. Maitlin, D. Lee, and R. Sarfati. FRB of New York Staff Report.
 
 Research/Experience
 ======
