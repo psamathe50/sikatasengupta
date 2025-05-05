@@ -14,7 +14,7 @@ Publications
 ======
 *(all in alphabetical ordering)*
 - [Boss LLM: Adaptation via No-Regret Learning](https://openreview.net/forum?id=GNc2izn9Bv). Joint work with Y. Feng, A. Khare, and N. Nguyen. ICLR: SSI-FM 2025, Manuscript. 
-- [Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces](https://arxiv.org/abs/2502.11828). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell. JHU DSAI Symposium on Human-AI Alignment 2025, Manuscript. 
+- [Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces](https://arxiv.org/abs/2502.11828). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell. JHU DSAI Symposium on Human-AI Alignment 2025,  **ICML: Main 2025**. 
 - [Oracle-Efficient Reinforcement Learning for Max Value Ensembles](https://arxiv.org/abs/2405.16739). Joint work with M. Hussing, M. Kearns, A. Roth, and J. Sorrell. ICML: ARLET, WIML, **NeurIPS: Main 2024**.
 - [Estimating HANK for central banks](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1071.pdf?sc_lang=en). Joint work with S. Acharya, W. Chen, M. Del Negro, K. Dogra, A. Gleich, S. Goyal, E. Maitlin, D. Lee, and R. Sarfati. FRB of New York Staff Report.
 
