@@ -12,7 +12,7 @@ I am a second-year PhD student in computer science at the University of Pennsylv
 
 Publications
 ======
-- [Oracle-Efficient Reinforcement Learning via Max-Following](). Joint work with Z. Mhammedi and T. Marinov. Manuscript coming soon.
+- [Oracle-Efficient Adversarial Reinforcement Learning via Max-Following](). Joint work with Z. Mhammedi and T. Marinov. Manuscript coming soon.
 - [Replicable Reinforcement Learning with Linear Function Approximation](). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). Manuscript coming soon.
 - [Boss LLM: Adaptation via No-Regret Learning](https://openreview.net/forum?id=GNc2izn9Bv). Joint work with Y. Feng, A. Khare, and N. Nguyen ($\alpha-\beta$). ICLR: SSI-FM 2025, Manuscript. 
 - [Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces](https://arxiv.org/abs/2502.11828). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). JHU DSAI Symposium on Human-AI Alignment 2025,  **ICML: Main 2025**. 
