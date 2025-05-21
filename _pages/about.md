@@ -24,7 +24,7 @@ Talks
 ======
 - Oracle-Efficient Reinforcement Learning for Max Value Ensembles; RL Theory Seminar. 
 - Oracle-Efficient Reinforcement Learning for Max Value Ensembles; Google Research Learning Theory Group NYC.
-- Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces ; Johns Hopkins University Theory Seminar.
+- Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces; Johns Hopkins University Theory Seminar.
 
 Research/Experience
 ======
