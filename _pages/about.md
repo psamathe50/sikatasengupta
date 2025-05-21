@@ -29,6 +29,8 @@ Talks
 Research/Experience
 ======
 - Amazon Robotics Research Scientist Intern (2025)
+- Cooperative AI Summer School (2025)
+- Women in Theory (2025)
 - Advised by Matthew Jackson for my Honors Thesis, I studied the role of homophily in the malleability of social networks using techniques drawn from Mean-Field Game Theory [here](https://stacks.stanford.edu/file/druid:tc454jm3013/HonorsThesisFinal_SikataSengupta.pdf)
 - Worked on online estimation of Heterogeneous Agent New Keynesian Models (HANK) using Sequential Monte Carlo at the NY Federal Reserve. I also briefly worked on speeding up Hamiltonian Monte Carlo (HMC) to estimate medium-scale DSGE models.
 - Developed an algorithm with Itai Ashlagi that matches students in the San Francisco area with schools based upon a generalized version of the Probabilistic Serial Dictatorship mechanism with distributional constraints
