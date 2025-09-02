@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in computer science at the University of Pennsylvania. I am fortunate to be advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), and [Duncan Watts](https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd). I am broadly interested in the intersection of Machine Learning Theory, Algorithmic Game Theory, and Reinforcement Learning/Control (especially their practical and social applications). Prior to this, I graduated from Stanford University with a B.A.S. in Mathematics and Economics (Honors). During my time there, I was lucky to work with and be advised by [Matthew Jackson](http://web.stanford.edu/~jacksonm/), [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), and [Alain Schläpfer](https://sites.google.com/site/alainschlaepfer). I also spent a year working in the Dynamic Stochastic General Equilibrium ([DSGE](https://www.newyorkfed.org/research/policy/dsge#/overview)) Team at the New York Federal Reserve. 
+I am a second-year PhD student in computer science at the University of Pennsylvania. I am fortunate to be advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), and [Duncan Watts](https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd). I am broadly interested in the intersection of Machine Learning Theory, Algorithmic Game Theory, and Reinforcement Learning/Control (especially their practical and social applications). Prior to this, I graduated from Stanford University with a B.A.S. in Mathematics and Economics (Honors). During my time there, I was lucky to work with and be advised by [Matthew Jackson](http://web.stanford.edu/~jacksonm/), [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), and [Alain Schläpfer](https://sites.google.com/site/alainschlaepfer). I also spent a year working in the Dynamic Stochastic General Equilibrium ([DSGE](https://www.newyorkfed.org/research/policy/dsge#/overview)) Team at the New York Federal Reserve. I am currently supported by the [NSF GRFP Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program).
 
 Publications 
 ======
 (note: in my field, authorship is primarily in alphabetical ordering)
-- [Oracle-Efficient Adversarial Reinforcement Learning via Max-Following](). Joint work with Z. Mhammedi and T. Marinov. ICML: EXAIT 2025. Manuscript coming soon.
+- [Oracle-Efficient Adversarial Reinforcement Learning via Max-Following](https://openreview.net/pdf?id=KdYtu1HiE9). Joint work with Z. Mhammedi and T. Marinov. ICML: EXAIT 2025. 
 - [Replicable Reinforcement Learning with Linear Function Approximation](). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). Manuscript coming soon.
 - [Boss LLM: Adaptation via No-Regret Learning](https://openreview.net/forum?id=GNc2izn9Bv). Joint work with Y. Feng, A. Khare, and N. Nguyen ($\alpha-\beta$). ICLR: SSI-FM 2025, Manuscript. 
 - [Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces](https://arxiv.org/abs/2502.11828). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). JHU DSAI Symposium on Human-AI Alignment 2025,  **ICML: Main 2025**. 
@@ -22,7 +22,7 @@ Publications
 
 Talks
 ======
-- Oracle-Efficient Reinforcement Learning for Max Value Ensembles; RL Theory Seminar. 
+- Oracle-Efficient Reinforcement Learning for Max Value Ensembles; [RL Theory Seminar](https://www.youtube.com/watch?v=7RRRvFMEZi8). 
 - Oracle-Efficient Reinforcement Learning for Max Value Ensembles; Google Research Learning Theory Group NYC.
 - Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces; Johns Hopkins University Theory Seminar.
 
