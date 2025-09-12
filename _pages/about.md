@@ -14,7 +14,7 @@ Publications
 ======
 (note: in my field, authorship is primarily in alphabetical ordering)
 - [Oracle-Efficient Adversarial Reinforcement Learning via Max-Following](https://openreview.net/pdf?id=KdYtu1HiE9). Joint work with Z. Mhammedi and T. Marinov. ICML: EXAIT 2025. 
-- [Replicable Reinforcement Learning with Linear Function Approximation](). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). NYRL *Oral*. Manuscript coming soon.
+- [Replicable Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2509.08660). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). NYRL *Oral*. 
 - [Boss LLM: Adaptation via No-Regret Learning](https://openreview.net/forum?id=GNc2izn9Bv). Joint work with Y. Feng, A. Khare, and N. Nguyen ($\alpha-\beta$). ICLR: SSI-FM 2025, Manuscript. 
 - [Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces](https://arxiv.org/abs/2502.11828). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). JHU DSAI Symposium on Human-AI Alignment 2025,  **ICML: Main 2025**. 
 - [Oracle-Efficient Reinforcement Learning for Max Value Ensembles](https://arxiv.org/abs/2405.16739). Joint work with M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). ICML: ARLET, WIML, **NeurIPS: Main 2024**.
