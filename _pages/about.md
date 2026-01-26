@@ -13,8 +13,10 @@ I am a third-year PhD student in computer science at the University of Pennsylva
 Publications 
 ======
 (note: in my field, authorship is primarily in alphabetical ordering)
+- Independent Model Agreement via Midpoint Anchors. Joint work with E. Eaton, S. Goel, M. Hussing, M. Kearns, A. Roth, and J. Sorrell $(\alpha-\beta)$. Manuscript coming soon.
+- Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Fulfillment Centers. Joint work with G. Liu, O. Gottesman, J. Durham, A. Roth, M. Kearns, and M. Caldara. NYRL. Manuscript Coming soon.
 - [Oracle-Efficient Adversarial Reinforcement Learning via Max-Following](https://openreview.net/pdf?id=KdYtu1HiE9). Joint work with Z. Mhammedi and T. Marinov. ICML: EXAIT 2025. 
-- [Replicable Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2509.08660). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). NYRL *Oral*. 
+- [Replicable Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2509.08660). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). NYRL *Oral*, **ICLR: Main 2026**.
 - [Boss LLM: Adaptation via No-Regret Learning](https://openreview.net/forum?id=GNc2izn9Bv). Joint work with Y. Feng, A. Khare, and N. Nguyen ($\alpha-\beta$). ICLR: SSI-FM 2025, Manuscript. 
 - [Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces](https://arxiv.org/abs/2502.11828). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). JHU DSAI Symposium on Human-AI Alignment 2025,  **ICML: Main 2025**. 
 - [Oracle-Efficient Reinforcement Learning for Max Value Ensembles](https://arxiv.org/abs/2405.16739). Joint work with M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). ICML: ARLET, WIML, **NeurIPS: Main 2024**.
@@ -28,6 +30,7 @@ Talks
 
 Research/Experience
 ======
+- [SPAR](https://sparai.org/) Fellow (2025)
 - Amazon Robotics Research Scientist Intern (2025)
 - Cooperative AI Summer School (2025)
 - Women in Theory (2025)
@@ -48,7 +51,7 @@ Mentorship/Involvement
 
 Teaching 
 ======
-- TA for Algorithmic Game Theory (Spring 2025)
+- TA for Algorithmic Game Theory (Spring 2025, Spring 2026)
 - Mathematics and Economics Tutor through the Stanford Center for Teaching and Learning
 
 Awards/Honors
