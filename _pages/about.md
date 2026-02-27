@@ -13,7 +13,7 @@ I am a third-year PhD student in computer science at the University of Pennsylva
 Publications 
 ======
 (note: in my field, authorship is primarily in alphabetical ordering)
-- Independent Model Agreement via Midpoint Anchors. Joint work with E. Eaton, S. Goel, M. Hussing, M. Kearns, A. Roth, and J. Sorrell $(\alpha-\beta)$. Manuscript coming soon.
+- [Model Agreement via Anchoring](https://arxiv.org/abs/2602.23360). Joint work with E. Eaton, S. Goel, M. Hussing, M. Kearns, A. Roth, and J. Sorrell $(\alpha-\beta)$.
 - Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Fulfillment Centers. Joint work with G. Liu, O. Gottesman, J. Durham, A. Roth, M. Kearns, and M. Caldara. NYRL. Manuscript Coming soon.
 - [Oracle-Efficient Adversarial Reinforcement Learning via Max-Following](https://openreview.net/pdf?id=KdYtu1HiE9). Joint work with Z. Mhammedi and T. Marinov. ICML: EXAIT 2025. 
 - [Replicable Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2509.08660). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). NYRL *Oral*, **ICLR: Main 2026**.
