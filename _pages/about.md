@@ -13,7 +13,7 @@ I am a third-year PhD student in computer science at the University of Pennsylva
 Publications 
 ======
 (note: in my field, authorship is primarily in alphabetical ordering  ($\alpha-\beta$))
-- Generalizable Methods for Human-AI Complementarity. Joint with Y. Xu, A. Dahmani, M. Blanchard, N. Dern, E. Nastase, F. Bianco, M. Pavlovic, S. Krishna, J. Pamarthi, and A. Menon. Manuscript coming soon.
+- Generalizable Methods for Human-AI Complementarity. Joint with Y. Xu, A. Dahmani, M. Blanchard, N. Dern, E. Nastase, F. Bianco, M. Pavlovic, S. Krishna, J. Pamarthi, A. Menon, and R. Jain. Manuscript coming soon.
 - [Model Agreement via Anchoring](https://arxiv.org/abs/2602.23360). Joint work with E. Eaton, S. Goel, M. Hussing, M. Kearns, A. Roth, and J. Sorrell $(\alpha-\beta)$.
 - [Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Fulfillment Centers](https://arxiv.org/abs/2602.24182). Joint work with G. Liu, O. Gottesman, J. Durham, A. Roth, M. Kearns, and M. Caldara. NYRL. 
 - [Oracle-Efficient Adversarial Reinforcement Learning via Max-Following](https://openreview.net/pdf?id=KdYtu1HiE9). Joint work with Z. Mhammedi and T. Marinov. ICML: EXAIT 2025. 
