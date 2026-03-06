@@ -61,7 +61,7 @@ Teaching
 
 Awards/Honors
 ======
-- Rising Star in IOE-ISyE-MS\&E
+- Rising Star in IOE-ISyE-MS&E
 - NSF GRFP Fellow
 - Phi Beta Kappa
 - Graduated with Distinction (Top 15% of Undergraduate Body)
