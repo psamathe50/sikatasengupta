@@ -14,7 +14,7 @@ Publications
 ======
 (note: in my field, authorship is primarily in alphabetical ordering  ($\alpha-\beta$))
 - From Dialogue to Deliberation in AI-Induced Belief
-Change. Joint with P. Jamie, A. Pessianzadeh, N. Sultana, J. Ruane, S. Rezapour, H. Hosseinmardi, and A. Ghasemian. Manuscript coming soon.
+Change. Joint with P. Jamie, A. Pessianzadeh, N. Sultana, J. Ruane, S. Rezapour, H. Hosseinmardi, A. Ghasemian, and D. Watts. Manuscript coming soon.
 - Generalizable Methods for Human-AI Complementarity. Joint with Y. Xu, A. Dahmani, M. Blanchard, N. Dern, E. Nastase, F. Bianco, M. Pavlovic, S. Krishna, J. Pamarthi, A. Menon, and R. Jain. Manuscript coming soon.
 - [Model Agreement via Anchoring](https://arxiv.org/abs/2602.23360). Joint work with E. Eaton, S. Goel, M. Hussing, M. Kearns, A. Roth, and J. Sorrell $(\alpha-\beta)$.
 - [Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Fulfillment Centers](https://arxiv.org/abs/2602.24182). Joint work with G. Liu, O. Gottesman, J. Durham, A. Roth, M. Kearns, and M. Caldara. NYRL. 
