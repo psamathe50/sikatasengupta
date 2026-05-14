@@ -27,6 +27,8 @@ Change. Joint with P. Jamie, A. Pessianzadeh, N. Sultana, J. Ruane, S. Rezapour,
 
 Talks
 ======
+- Model Agreement via Anchoring; CSS Lab Showcase. 
+- Model Agreement via Anchoring; CHAI All-Hands Meeting.
 - Oracle-Efficient Reinforcement Learning for Max Value Ensembles; [RL Theory Seminar](https://www.youtube.com/watch?v=7RRRvFMEZi8). 
 - Oracle-Efficient Reinforcement Learning for Max Value Ensembles; Google Research Learning Theory Group NYC.
 - Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces; Johns Hopkins University Theory Seminar.
