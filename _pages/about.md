@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in computer science at the University of Pennsylvania. I am fortunate to be advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), and [Duncan Watts](https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd). I am currently also a visiting student researcher at the Center for Human-Compatible AI ([CHAI](https://humancompatible.ai/)) at UC Berkeley. I am interested in the foundations of interactive decision-making algorithms for human-AI ecosystems. I primarily focus on human-centric reinforcement learning, working at the intersection of machine learning theory, algorithmic game theory, and rl/control. I also draw on tools from computational social science to study such algorithms in real-world settings. Prior to this, I graduated from Stanford University with a B.A.S. in Mathematics and Economics (Honors). During my time there, I was lucky to work with and be advised by [Matthew Jackson](http://web.stanford.edu/~jacksonm/), [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), and [Alain Schläpfer](https://sites.google.com/site/alainschlaepfer). I also spent a year working in the Dynamic Stochastic General Equilibrium ([DSGE](https://www.newyorkfed.org/research/policy/dsge#/overview)) Team at the New York Federal Reserve. I am currently supported by the [NSF GRFP Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program).
+I am a third-year PhD student in computer science at the University of Pennsylvania. I am fortunate to be advised by [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Aaron Roth](https://www.cis.upenn.edu/~aaroth/), and [Duncan Watts](https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd). I am a (visiting) student researcher at the Center for Human-Compatible AI ([CHAI](https://humancompatible.ai/)) at UC Berkeley, where I am hosted by and collaborating with [Stuart Russell](https://people.eecs.berkeley.edu/~russell/) and [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/). I am interested in the foundations of interactive decision-making algorithms for human-AI ecosystems. I primarily focus on human-centric reinforcement learning, working at the intersection of machine learning theory, algorithmic game theory, and rl/control. I also draw on tools from computational social science to study such algorithms in real-world settings. Prior to this, I graduated from Stanford University with a B.A.S. in Mathematics and Economics (Honors). During my time there, I was lucky to work with and be advised by [Matthew Jackson](http://web.stanford.edu/~jacksonm/), [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), and [Alain Schläpfer](https://sites.google.com/site/alainschlaepfer). I also spent a year working in the Dynamic Stochastic General Equilibrium ([DSGE](https://www.newyorkfed.org/research/policy/dsge#/overview)) Team at the New York Federal Reserve. I am currently supported by the [NSF GRFP Fellowship](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program).
 
 Publications 
 ======
@@ -17,7 +17,7 @@ Publications
 Change. Joint with P. Jamie, A. Pessianzadeh, N. Sultana, J. Ruane, S. Rezapour, H. Hosseinmardi, A. Ghasemian, and D. Watts. Manuscript coming soon.
 - [Toward Human-AI Complementarity Across Diverse Tasks](https://rishubjain.github.io/Toward_Human_AI_Complementarity_Across_Diverse_Tasks.pdf). Joint with Y. Xu, A. Dahmani, M. Blanchard, N. Dern, E. Nastase, F. Bianco, M. Pavlovic, S. Krishna, A. Singh, E. Modesitt, M. Christ, G. Molinaro, J. Pamarthi, A. Menon, and R. Jain. 
 - [Model Agreement via Anchoring](https://arxiv.org/abs/2602.23360). Joint work with E. Eaton, S. Goel, M. Hussing, M. Kearns, A. Roth, and J. Sorrell $(\alpha-\beta)$. ICLR AIWILD 2026, CHAI Workshop 2026, Simons Workshop on Agency in Collaborative Learning, **COLT: Main 2026**.
-- [Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Fulfillment Centers](https://arxiv.org/abs/2602.24182). Joint work with G. Liu, O. Gottesman, J. Durham, A. Roth, M. Kearns, and M. Caldara. NYRL. 
+- [Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Fulfillment Centers](https://arxiv.org/abs/2602.24182). Joint work with G. Liu, O. Gottesman, J. Durham, A. Roth, M. Kearns, and M. Caldara. NYRL, ICML RLxF Workshop. 
 - [Oracle-Efficient Adversarial Reinforcement Learning via Max-Following](https://openreview.net/pdf?id=KdYtu1HiE9). Joint work with Z. Mhammedi and T. Marinov. ICML: EXAIT 2025. 
 - [Replicable Reinforcement Learning with Linear Function Approximation](https://arxiv.org/abs/2509.08660). Joint work with E. Eaton, M. Hussing, M. Kearns, A. Roth, and J. Sorrell ($\alpha-\beta$). NYRL *Oral*, **ICLR: Main 2026**.
 - [Boss LLM: Adaptation via No-Regret Learning](https://openreview.net/forum?id=GNc2izn9Bv). Joint work with Y. Feng, A. Khare, and N. Nguyen ($\alpha-\beta$). ICLR: SSI-FM 2025, Manuscript. 
@@ -27,6 +27,9 @@ Change. Joint with P. Jamie, A. Pessianzadeh, N. Sultana, J. Ruane, S. Rezapour,
 
 Talks
 ======
+- Model Agreement via Anchoring; INFORMS (upcomimg).
+- Model Agreement via Anchoring; WALE (upcomimg).
+- Model Agreement via Anchoring; COLT (upcomimg).
 - Model Agreement via Anchoring; CSS Lab Showcase. 
 - Model Agreement via Anchoring; CHAI All-Hands Meeting.
 - Oracle-Efficient Reinforcement Learning for Max Value Ensembles; [RL Theory Seminar](https://www.youtube.com/watch?v=7RRRvFMEZi8). 
@@ -35,6 +38,7 @@ Talks
 
 Research/Experience
 ======
+- Interning with [Dean Foster](https://deanfoster.net/), [Omer Gottesman](https://omergott.github.io/), and others at Amazon RL/SCOT (Summer 2026) 
 - [CHAI](https://humancompatible.ai/) Student Researcher (Spring 2026)
 - [SPAR](https://sparai.org/) Fellow working with Rishub Jain on Human-AI Complementarity (Fall 2025)
 - Amazon Robotics Research Scientist Intern (Summer 2025)
@@ -48,6 +52,7 @@ Research/Experience
 
 Mentorship/Involvement
 ======
+- pre-FORC volunteer (Thinkathon)
 - Women in Machine Learning Volunteer
 - Computer and Information Science Student Seminar Co-Founder
 - Computer and Information Science Theory Seminar Volunteer
