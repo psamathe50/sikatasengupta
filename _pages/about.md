@@ -28,8 +28,9 @@ Change. Joint with P. Jamie, A. Pessianzadeh, N. Sultana, J. Ruane, S. Rezapour,
 Talks
 ======
 - Model Agreement via Anchoring; INFORMS (upcomimg).
-- Model Agreement via Anchoring; WALE (upcomimg).
-- Model Agreement via Anchoring; COLT (upcomimg).
+- Designing RL for Human-AI Ecosystems; Amazon SCOT RL. 
+- Model Agreement via Anchoring; WALE.
+- Model Agreement via Anchoring; COLT.
 - Model Agreement via Anchoring; CSS Lab Showcase. 
 - Model Agreement via Anchoring; CHAI All-Hands Meeting.
 - Oracle-Efficient Reinforcement Learning for Max Value Ensembles; [RL Theory Seminar](https://www.youtube.com/watch?v=7RRRvFMEZi8). 
@@ -52,6 +53,7 @@ Research/Experience
 
 Mentorship/Involvement
 ======
+- Co-Organizer for CoRL Workshop on Modeling Uncertainty in Robotic World Models.
 - pre-FORC volunteer (Thinkathon)
 - Women in Machine Learning Volunteer
 - Computer and Information Science Student Seminar Co-Founder
