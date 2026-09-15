@@ -13,8 +13,9 @@ I am a third-year PhD student in computer science at the University of Pennsylva
 Publications 
 ======
 (note: in my field, authorship is primarily in alphabetical ordering  ($\alpha-\beta$))
+- [Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control](https://www.cis.upenn.edu/~aaroth/Papers/delegating-authorization-to-misaligned-agents.pdf). Joint work with N. Collina, S. Goel, and A. Roth ($\alpha-\beta$). 
 - From Dialogue to Deliberation in AI-Induced Belief
-Change. Joint with P. Jamie, A. Pessianzadeh, N. Sultana, J. Ruane, S. Rezapour, H. Hosseinmardi, A. Ghasemian, and D. Watts. Manuscript coming soon.
+Change. Joint work with P. Jamie, A. Pessianzadeh, N. Sultana, J. Ruane, S. Rezapour, H. Hosseinmardi, A. Ghasemian, and D. Watts. Manuscript coming soon.
 - [Toward Human-AI Complementarity Across Diverse Tasks](https://rishubjain.github.io/Toward_Human_AI_Complementarity_Across_Diverse_Tasks.pdf). Joint with Y. Xu, A. Dahmani, M. Blanchard, N. Dern, E. Nastase, F. Bianco, M. Pavlovic, S. Krishna, A. Singh, E. Modesitt, M. Christ, G. Molinaro, J. Pamarthi, A. Menon, and R. Jain. 
 - [Model Agreement via Anchoring](https://arxiv.org/abs/2602.23360). Joint work with E. Eaton, S. Goel, M. Hussing, M. Kearns, A. Roth, and J. Sorrell $(\alpha-\beta)$. ICLR AIWILD 2026, CHAI Workshop 2026, Simons Workshop on Agency in Collaborative Learning, **COLT: Main 2026**.
 - [Multi-Objective Reinforcement Learning for Large-Scale Tote Allocation in Human-Robot Fulfillment Centers](https://arxiv.org/abs/2602.24182). Joint work with G. Liu, O. Gottesman, J. Durham, A. Roth, M. Kearns, and M. Caldara. NYRL, ICML RLxF Workshop. 
