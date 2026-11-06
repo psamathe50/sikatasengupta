@@ -28,6 +28,7 @@ Change. Joint work with P. Jamie, A. Pessianzadeh, N. Sultana, J. Ruane, S. Reza
 
 Talks
 ======
+- Model Agreement via Anchoring; NYU Student Theory Day.
 - Safe Delegated Authorization; INFORMS.
 - Safe Delegated Authorization; Stanford FAIL-SAFE Reading Group.
 - Safe Delegated Authorization to Misaligned Agents; USC Theory Seminar.
