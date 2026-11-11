@@ -28,6 +28,7 @@ Change. Joint work with P. Jamie, A. Pessianzadeh, N. Sultana, J. Ruane, S. Reza
 
 Talks
 ======
+- Safe Delegated Authorization; Apple MLR AI Safety Reading Group.
 - Model Agreement via Anchoring; NYU Student Theory Day.
 - Safe Delegated Authorization; INFORMS.
 - Safe Delegated Authorization; Stanford FAIL-SAFE Reading Group.
@@ -77,7 +78,7 @@ Awards/Honors
 - Rising Star in IOE-ISyE-MS&E
 - NSF GRFP Fellow
 - Phi Beta Kappa
-- Graduated with Distinction (Top 15% of Undergraduate Body)
+- Graduated with Distinction 
 - Coleman Sellers Award
 
 Hobbies
